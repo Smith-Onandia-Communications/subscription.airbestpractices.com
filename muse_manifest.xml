@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" ftp_hostname="ftpes://subscription.airbestpractices.com" ftp_rootfolder="/" exportTarget="FTP" domain="subscription.airbestpractices.com" resolutions="1x" timestamp="1484689279617">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3893832452" ref="index"/>
+    <file name="nomq_index.css" crc="366330845" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bvbp_logo_2014.png" crc="259066892" seo="true" ref="index"/>
+    <file name="cabp_logo_2012.png" crc="482510993" seo="true" ref="index"/>
+    <file name="ccbp_logo_2014.png" crc="3779830270" seo="true" ref="index"/>
+    <file name="blower-vacuum-best-practices-website-covers.jpg" crc="3993122875" seo="true" ref="index"/>
+    <file name="compressed-air-best-practices-website-covers.jpg" crc="1367208" seo="true" ref="index"/>
+    <file name="chiller-cooling-best-practices-website-covers.jpg" crc="3960840327" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4264041793" seo="true" mt="1484689220956" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U410" maxwidth="385" minwidth="0" squishy="true"/>
+        <breakpoint uid="U326" maxwidth="517" minwidth="386" squishy="true"/>
+        <breakpoint uid="U236" maxwidth="692" minwidth="518" squishy="true"/>
+        <breakpoint uid="U202" maxwidth="736" minwidth="693" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="960" minwidth="737" squishy="true"/>
+      </page>
+      <masterPage name="A-Master" master="U62" uid="U72">
+        <breakpoint uid="U73" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
